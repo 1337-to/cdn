@@ -997,11 +997,11 @@ h2 {
   width: 20%;
   padding-left: 25px;
   color: #fff;
-  background: url('images/notfication-bg.png') repeat 0 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/notfication-bg.png') repeat 0 0;
 }
 .notification-list .table > tbody > tr > td.notification .icon{
   position: relative;
-  background-image: url('images/notfication-bg.png');
+  background-image: url('https://i1.wp.com/1337x.to/css/images/notfication-bg.png');
   background-repeat: repeat;
   background-position: 0 0;
 }
@@ -1723,91 +1723,91 @@ hr {
 ---------------------------------------------------------------------------*/
 @font-face {
   font-family: 'Opensans Light';
-  src: url('webfonts/opensans-light.eot');
-  src: url('webfonts/opensans-light.eot?#iefix') format('embedded-opentype'),
-       url('webfonts/opensans-light.woff') format('woff'),
-       url('webfonts/opensans-light.ttf') format('truetype'),
-       url('webfonts/opensans-light.svg#Opensans Light') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-light.eot');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-light.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-light.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-light.ttf') format('truetype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-light.svg#Opensans Light') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Opensans Regular';
-  src: url('webfonts/opensans-regular.eot');
-  src: url('webfonts/opensans-regular.eot?#iefix') format('embedded-opentype'),
-       url('webfonts/opensans-regular.woff') format('woff'),
-       url('webfonts/opensans-regular.ttf') format('truetype'),
-       url('webfonts/opensans-regular.svg#Opensans Regular') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-regular.eot');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-regular.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-regular.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-regular.ttf') format('truetype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-regular.svg#Opensans Regular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Opensans Italic';
-  src: url('webfonts/opensans-italic.eot');
-  src: url('webfonts/opensans-italic.eot?#iefix') format('embedded-opentype'),
-       url('webfonts/opensans-italic.woff') format('woff'),
-       url('webfonts/opensans-italic.ttf') format('truetype'),
-       url('webfonts/opensans-italic.svg#Opensans Italic') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-italic.eot');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-italic.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-italic.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-italic.ttf') format('truetype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-italic.svg#Opensans Italic') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Opensans Semibold';
-  src: url('webfonts/opensans-semi-bold.eot');
-  src: url('webfonts/opensans-semi-bold.eot?#iefix') format('embedded-opentype'),
-       url('webfonts/opensans-semi-bold.woff') format('woff'),
-       url('webfonts/opensans-semi-bold.ttf') format('truetype'),
-       url('webfonts/opensans-semi-bold.svg#Opensans Semibold') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-semi-bold.eot');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-semi-bold.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-semi-bold.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-semi-bold.ttf') format('truetype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-semi-bold.svg#Opensans Semibold') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Opensans Bold';
-  src: url('webfonts/opensans-bold.eot');
-  src: url('webfonts/opensans-bold.eot?#iefix') format('embedded-opentype'),
-       url('webfonts/opensans-bold.woff') format('woff'),
-       url('webfonts/opensans-bold.ttf') format('truetype'),
-       url('webfonts/opensans-bold.svg#Opensans Bold') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-bold.eot');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-bold.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-bold.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-bold.ttf') format('truetype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-bold.svg#Opensans Bold') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Opensans Extrabold';
-  src: url('webfonts/opensans-extra-bold.eot');
-  src: url('webfonts/opensans-extra-bold.eot?#iefix') format('embedded-opentype'),
-       url('webfonts/opensans-extra-bold.woff') format('woff'),
-       url('webfonts/opensans-extra-bold.ttf') format('truetype'),
-       url('webfonts/opensans-extra-bold.svg#Opensans Extrabold') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-extra-bold.eot');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-extra-bold.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-extra-bold.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-extra-bold.ttf') format('truetype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/opensans-extra-bold.svg#Opensans Extrabold') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Oswald Light';
-  src: url('webfonts/oswald-light.eot');
-  src: url('webfonts/oswald-light.eot?#iefix') format('embedded-opentype'),
-       url('webfonts/oswald-light.woff') format('woff'),
-       url('webfonts/oswald-light.ttf') format('truetype'),
-       url('webfonts/oswald-light.svg#Oswald Light') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/oswald-light.eot');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/oswald-light.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/oswald-light.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/oswald-light.ttf') format('truetype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/oswald-light.svg#Oswald Light') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Oswald Regular';
-  src: url('webfonts/oswald-regular.eot');
-  src: url('webfonts/oswald-regular.eot?#iefix') format('embedded-opentype'),
-       url('webfonts/oswald-regular.woff') format('woff'),
-       url('webfonts/oswald-regular.ttf') format('truetype'),
-       url('webfonts/oswald-regular.svg#Oswald Regular') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/oswald-regular.eot');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/oswald-regular.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/oswald-regular.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/oswald-regular.ttf') format('truetype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/oswald-regular.svg#Oswald Regular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Oswald Bold';
-  src: url('webfonts/oswald-bold.eot');
-  src: url('webfonts/oswald-bold.eot?#iefix') format('embedded-opentype'),
-       url('webfonts/oswald-bold.woff') format('woff'),
-       url('webfonts/oswald-bold.ttf') format('truetype'),
-       url('webfonts/oswald-bold.svg#Oswald Bold') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/oswald-bold.eot');
+  src: url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/oswald-bold.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/oswald-bold.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/oswald-bold.ttf') format('truetype'),
+       url('https://cdn.jsdelivr.net/gh/1337-to/cdn@3.0/webfonts/oswald-bold.svg#Oswald Bold') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -1818,7 +1818,7 @@ html {
   line-height:1;
   overflow-y: scroll;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-  background: #000 url('images/body-bg.jpg') repeat 0 0;
+  background: #000 url('https://i1.wp.com/1337x.to/css/images/body-bg.jpg') repeat 0 0;
 }
 
 /* BODY
@@ -1826,7 +1826,7 @@ html {
 body {
   font-family: 'Opensans Regular', sans-serif;
   color: #656565;
-  background: url('images/main-bg.png') no-repeat center top;
+  background: url('https://i1.wp.com/1337x.to/css/images/main-bg.png') no-repeat center top;
 }
 aside.col-3 {
   width: 20%;
@@ -2082,7 +2082,7 @@ nav {
   margin-bottom: 24px;
 }
 nav ul {
-  background: #f14e13 url("images/nav-bg.png") no-repeat scroll right center;
+  background: #f14e13 url("https://i1.wp.com/1337x.to/css/images/nav-bg.png") no-repeat scroll right center;
   border: 1px solid #f85c27;
   border-radius: 3px;
   margin-top: 8px;
@@ -2093,7 +2093,7 @@ nav ul {
   box-shadow:  0 7px 0 -2px #7c2a0c;
 }
 nav li {
-  background: url("images/sep.png") no-repeat scroll right center;
+  background: url("https://i1.wp.com/1337x.to/css/images/sep.png") no-repeat scroll right center;
   display: table-cell;
 }
 nav li:last-child{
@@ -2112,7 +2112,7 @@ nav li a {
 }
 nav li.active a,
 nav li:hover a {
-  background: url("images/nav-hover.jpg") repeat scroll 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/nav-hover.jpg") repeat scroll 0 0;
 }
 
 /* BANNER BOX
@@ -2194,7 +2194,7 @@ nav li:hover a {
   width: 100%;
   margin-bottom: 30px;
   border: 0 none;
-  background: url('images/divider.png') repeat-x scroll 0 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/divider.png') repeat-x scroll 0 0;
 }
 
 /* USER BOX
@@ -2582,7 +2582,7 @@ nav li:hover a {
   padding: 6px 16px 16px;
 }
 .library-info .modal-content {
-  background: url("images/detail-bg.jpg") repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/detail-bg.jpg") repeat 0 0;
   border-radius: 4px;
 }
 .library-box .modal .close {
@@ -2590,7 +2590,7 @@ nav li:hover a {
   top: -13px;
   height: 26px;
   width: 26px;
-  background: url("images/cross.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/cross.png") no-repeat 0 0;
 }
 .library-info h3 {
   margin-top: 0;
@@ -2656,7 +2656,7 @@ nav li:hover a {
 .library-info-box {
   min-height: 224px;
   padding: 6px 16px 13px;
-  background: url("images/detail-bg.jpg") repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/detail-bg.jpg") repeat 0 0;
 }
 .library-box .modal .close {
   right: -13px;
@@ -3000,7 +3000,7 @@ nav li:hover a {
 }
 .thread-detail .table-list td{
   color: #fff;
-  background: #94d65f url('images/notfication-bg.png') repeat 0 0;
+  background: #94d65f url('https://i1.wp.com/1337x.to/css/images/notfication-bg.png') repeat 0 0;
 }
 .thread-reply-page .thread-detail .table-list tr:nth-of-type(odd) td {
   background-color: #94d65f;
@@ -3510,7 +3510,7 @@ nav li:hover a {
   margin: 0 0 56px;
   padding-top: 0;
   width: 100%;
-  background: url("images/detail-bg.jpg") repeat scroll 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/detail-bg.jpg") repeat scroll 0 0;
   position: relative;
   border-radius: 3px;
 }
@@ -3521,7 +3521,7 @@ nav li:hover a {
 
 .movie-list-wrap,
 .series-list-wrap{
-  background: url('images/movie-detail.png') no-repeat 400px 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/movie-detail.png') no-repeat 400px 0;
 }
 .shows-review,
 .movie-box,
@@ -3708,7 +3708,7 @@ nav li:hover a {
   padding-left: 4%;
   padding-top: 30px;
   width: 41%;
-  background: url('images/series-border-bg-repeat.png') repeat-y 4% 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/series-border-bg-repeat.png') repeat-y 4% 0;
   float: right;
   margin-top: 25px;
 }
@@ -4037,7 +4037,7 @@ blockquote.green .blockquote-content{
 /* SEASONS
 --------------------------------------------------------------------------*/
 .seasons.box-info {
-  background: #6e6e6e url('images/dark-grey-black.jpg') repeat 0 0;
+  background: #6e6e6e url('https://i1.wp.com/1337x.to/css/images/dark-grey-black.jpg') repeat 0 0;
 }
 .seasons.box-info .box-info-heading{
   background-color: #d63600;
@@ -4051,7 +4051,7 @@ blockquote.green .blockquote-content{
   list-style: none;
   padding-left: 2%;
   padding-top: 18px;
-  background: url('images/left-corner.png') no-repeat scroll 0 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/left-corner.png') no-repeat scroll 0 0;
 }
 .seasons .box-info-detail {
   padding: 0;
@@ -4141,21 +4141,21 @@ blockquote.green .blockquote-content{
 /* RATING
 --------------------------------------------------------------------------*/
 .rating {
-  background: rgba(0, 0, 0, 0) url('images/rating-img.png') no-repeat scroll 0 0;
+  background: rgba(0, 0, 0, 0) url('https://i1.wp.com/1337x.to/css/images/rating-img.png') no-repeat scroll 0 0;
   display: block;
   height: 32px;
   position: relative;
   max-width: 123px;
 }
 .rating i {
-  background: rgba(0, 0, 0, 0) url('images/rating-green.png') no-repeat 0 0;
+  background: rgba(0, 0, 0, 0) url('https://i1.wp.com/1337x.to/css/images/rating-green.png') no-repeat 0 0;
   height: 32px;
   left: 0;
   position: absolute;
   top: 0;
 }
 .rating i.red {
-  background: url("images/rating-red.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/rating-red.png") no-repeat 0 0;
 }
 
 /* ABOUT PAGE
@@ -4177,7 +4177,7 @@ blockquote.green .blockquote-content{
   margin: 0;
   padding: 4px 14px 4px 15px;
   width: 100%;
-  background: #0e0e0e url("images/black-gradient-bg.jpg") repeat-x scroll 0 0;
+  background: #0e0e0e url("https://i1.wp.com/1337x.to/css/images/black-gradient-bg.jpg") repeat-x scroll 0 0;
 }
 .torrent-category-detail ul, 
 .l3698c72b18473dfa16610f727788138d495e1c46 ul {
@@ -4330,7 +4330,7 @@ blockquote.green .blockquote-content{
   padding: 0;
   margin: 0;
   list-style: none;
-  background: #c0c0c0 url("images/tabs-nav-bg.jpg") repeat-x scroll 0 0;
+  background: #c0c0c0 url("https://i1.wp.com/1337x.to/css/images/tabs-nav-bg.jpg") repeat-x scroll 0 0;
   border-bottom: 1px solid #b5b5b5;
 }
 .torrent-tabs .tab-nav li{
@@ -4685,7 +4685,7 @@ blockquote.green .blockquote-content{
 --------------------------------------------------------------------------*/
 .movie-torrent {
   border-radius: 4px;
-  background:url('images/torrent-title-bg.jpg') repeat 0 0;
+  background:url('https://i1.wp.com/1337x.to/css/images/torrent-title-bg.jpg') repeat 0 0;
   box-shadow: inset 0 -15px 10px -15px rgba(0,0,0,0.70);
 }
 .movie-torrent h1.title {
@@ -4783,7 +4783,7 @@ blockquote.green .blockquote-content{
   padding: 12px 0 11px 66px;
   color: #fff;
   font-size: 12px;
-  background:url('images/info-bg-repeat.jpg') repeat 0 0;
+  background:url('https://i1.wp.com/1337x.to/css/images/info-bg-repeat.jpg') repeat 0 0;
 }
 .movie-torrent .stream-info .icon {
   display: block;
@@ -4794,7 +4794,7 @@ blockquote.green .blockquote-content{
   padding-top: 4px;
   width: 54px;
   text-align: center;
-  background:url('images/info-bg-dark-repeat.jpg') repeat 0 0;
+  background:url('https://i1.wp.com/1337x.to/css/images/info-bg-dark-repeat.jpg') repeat 0 0;
 }
 .movie-torrent .stream-info .icon i {
   position: absolute;
@@ -4843,7 +4843,7 @@ blockquote.green .blockquote-content{
   color: #fff;
 }
 .torrent-detail {
-  background: url('images/detail-bg.jpg') repeat 0 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/detail-bg.jpg') repeat 0 0;
   border-radius: 0 0 5px 5px;
   margin: 0 14px 27px 14px;
   position: relative;
@@ -4855,7 +4855,7 @@ blockquote.green .blockquote-content{
   left: 0;
   height: 27px;
   width:100%;
-  background: url('images/detail-shadow.png') no-repeat 0 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/detail-shadow.png') no-repeat 0 0;
   background-size: contain;
 }
 .box-info-detail .torrent-detail,
@@ -4965,7 +4965,7 @@ blockquote.green .blockquote-content{
   bottom: -29px;
   width: 100%;
   height: 29px;
-  background: url('images/detail-shadow.png') no-repeat 0 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/detail-shadow.png') no-repeat 0 0;
   background-size: contain;
 }
 
@@ -4979,7 +4979,7 @@ blockquote.green .blockquote-content{
   color: #fff;
   font-size: 12px;
   border-radius: 0 0 5px 5px;
-  background:url('images/info-bg-repeat.jpg') repeat 0 0;
+  background:url('https://i1.wp.com/1337x.to/css/images/info-bg-repeat.jpg') repeat 0 0;
 }
 .vpn-info .icon {
   display: block;
@@ -4991,7 +4991,7 @@ blockquote.green .blockquote-content{
   width: 40px;
   text-align: center;
   border-radius: 0 0 0 5px;
-  background:url('images/info-bg-dark-repeat.jpg') repeat 0 0;
+  background:url('https://i1.wp.com/1337x.to/css/images/info-bg-dark-repeat.jpg') repeat 0 0;
 }
 .vpn-info .icon i {
   position: absolute;
@@ -5297,7 +5297,7 @@ blockquote.green .blockquote-content{
   height: 12px;
   width: 8px;
   border: 0 none;
-  background: url('images/user-tip-user.svg') no-repeat 0 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/user-tip-user.svg') no-repeat 0 0;
 }
 
 /*VIP*/
@@ -5305,7 +5305,7 @@ blockquote.green .blockquote-content{
   height: 12px;
   width: 8px;
   border: 0 none;
-  background: url('images/user-tip-vip.svg') no-repeat 0 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/user-tip-vip.svg') no-repeat 0 0;
 }
 .inbox-message-list .featured-icon.vip i {
   color: #86c3e0;
@@ -5320,7 +5320,7 @@ blockquote.green .blockquote-content{
   height: 12px;
   width: 8px;
   border: 0 none;
-  background: url('images/user-tip-admin.svg') no-repeat 0 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/user-tip-admin.svg') no-repeat 0 0;
 }
 .inbox-message-list .featured-icon.admin i {
   color: #444;
@@ -5335,7 +5335,7 @@ blockquote.green .blockquote-content{
   height: 12px;
   width: 8px;
   border: 0 none;
-  background: url('images/user-tip-trial.svg') no-repeat 0 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/user-tip-trial.svg') no-repeat 0 0;
 }
 .inbox-message-list .featured-icon.trial-uploader i {
   color: #EE7070;
@@ -5350,7 +5350,7 @@ blockquote.green .blockquote-content{
   height: 12px;
   width: 8px;
   border: 0 none;
-  background: url('images/user-tip-uploader.svg') no-repeat 0 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/user-tip-uploader.svg') no-repeat 0 0;
 }
 .inbox-message-list .featured-icon.uploader i {
   color: #DBC25E;
@@ -5365,7 +5365,7 @@ blockquote.green .blockquote-content{
   height: 12px;
   width: 8px;
   border: 0 none;
-  background: url('images/user-tip-moderator.svg') no-repeat 0 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/user-tip-moderator.svg') no-repeat 0 0;
 }
 .inbox-message-list .featured-icon.moderator i {
   color: #A5DF1B;
@@ -5920,7 +5920,7 @@ blockquote.green .blockquote-content{
   left: 0;
   top: 0;
   margin-right: 1px;
-  background: url('images/frame-tip.png') no-repeat 0 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/frame-tip.png') no-repeat 0 0;
 }
 .frame {
   display: inline-block;
@@ -5929,7 +5929,7 @@ blockquote.green .blockquote-content{
   width: 94px;
   line-height: 1;
   text-align: center;
-  background: url('images/frame.png') no-repeat 0 0;
+  background: url('https://i1.wp.com/1337x.to/css/images/frame.png') no-repeat 0 0;
 }
 .frame span {
   background-color: #fff;
@@ -6025,63 +6025,63 @@ small.user {
   width: 8px;
 }
 .frame.simple {
-  background: url("images/frame-simple.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-simple.png") no-repeat 0 0;
 }
 .frame.admin {
-  background: url("images/frame-administrator.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-administrator.png") no-repeat 0 0;
 }
 .frame.moderator {
-  background: url("images/frame-moderator.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-moderator.png") no-repeat 0 0;
 }
 .frame.vip {
-  background: url("images/frame-vip.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-vip.png") no-repeat 0 0;
 }
 .frame.uploader {
-  background: url("images/frame-uploader.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-uploader.png") no-repeat 0 0;
 }
 .frame.trial-uploader {
-  background: url("images/frame-trial-uploader.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-trial-uploader.png") no-repeat 0 0;
 }
 .frame.user {
-  background: url("images/frame-user.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-user.png") no-repeat 0 0;
 }
 
 
 .comment-detail .frame.admin {
-  background: url("images/frame-administrator-tip.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-administrator-tip.png") no-repeat 0 0;
 }
 .comment-detail .frame.moderator {
-  background: url("images/frame-moderator-tip.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-moderator-tip.png") no-repeat 0 0;
 }
 .comment-detail .frame.vip {
-  background: url("images/frame-vip-tip.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-vip-tip.png") no-repeat 0 0;
 }
 .comment-detail .frame.uploader {
-  background: url("images/frame-uploader-tip.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-uploader-tip.png") no-repeat 0 0;
 }
 .comment-detail .frame.trial-uploader {
-  background: url("images/frame-trial-uploader-tip.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-trial-uploader-tip.png") no-repeat 0 0;
 }
 .comment-detail .frame.user {
-  background: url("images/frame-user-tip.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-user-tip.png") no-repeat 0 0;
 }
 .comment-box.even-odd .comment-detail:nth-child(even) .frame.admin {
-  background: url("images/frame-administrator-flip-tip.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-administrator-flip-tip.png") no-repeat 0 0;
 }
 .comment-box.even-odd .comment-detail:nth-child(even) .frame.moderator {
-  background: url("images/frame-moderator-flip-tip.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-moderator-flip-tip.png") no-repeat 0 0;
 }
 .comment-box.even-odd .comment-detail:nth-child(even) .frame.vip {
-  background: url("images/frame-vip-flip-tip.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-vip-flip-tip.png") no-repeat 0 0;
 }
 .comment-box.even-odd .comment-detail:nth-child(even) .frame.uploader {
-  background: url("images/frame-uploader-flip-tip.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-uploader-flip-tip.png") no-repeat 0 0;
 }
 .comment-box.even-odd .comment-detail:nth-child(even) .frame.trial-uploader {
-  background: url("images/frame-trial-uploader-flip-tip.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-trial-uploader-flip-tip.png") no-repeat 0 0;
 }
 .comment-box.even-odd .comment-detail:nth-child(even) .frame.user {
-  background: url("images/frame-user-flip-tip.png") no-repeat 0 0;
+  background: url("https://i1.wp.com/1337x.to/css/images/frame-user-flip-tip.png") no-repeat 0 0;
 }
 .comment-box .btn-row {
   margin-top: 30px;
