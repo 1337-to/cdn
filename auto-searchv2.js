@@ -10,7 +10,7 @@
           response( cache[ term ] );
           return;
         }
-        $.getJSON( "//cdn.1337x.to/cdnsuggest.php", request, function( data, status, xhr ) {
+        $.getJSON( "/cdnsuggest.php", request, function( data, status, xhr ) {
           cache[ term ] = data.data;
           response( data.data );
         });
